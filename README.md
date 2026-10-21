@@ -48,7 +48,7 @@ Key fields include:
 
 ## Dashboard Preview
 
-Insert your dashboard screenshot here.
+![Retail Sales Dashboard](dashboard.png)
 
 ## Files Included
 
